@@ -15,7 +15,7 @@ Alumni Portal is a comprehensive web application developed using PHP, Bootstrap,
 <br><br>
 
 ## Getting Started (Windows-tested)
-1. Download [source code](https://github.com/kazcfz/Alumni-Portal/releases)
+1. Download [source code]
 2. Install [XAMPP for Windows](https://www.apachefriends.org/download.html)
 3. Extract source code in XAMPP's htdocs folder (_Default: `C:\xampp\htdocs`_)
 4. Run XAMPP
