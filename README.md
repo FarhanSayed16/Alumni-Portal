@@ -18,10 +18,15 @@ The **Alumni Connect Portal** provides a one-stop platform for:
 ## ✨ Key Features
 
 ✅ **Dynamic Donation Graphs** – Visual representation of contributions over time.
+
 ✅ **Animated Pop-ups** – Interactive news and announcement notifications.
+
 ✅ **Seamless Donation System** – Alumni can contribute securely and track their donations.
+
 ✅ **Alumni Profiles** – Maintain records of alumni with their graduation details, achievements, and current positions.
+
 ✅ **Event Management** – Stay updated on reunions, webinars, and institutional activities.
+
 ✅ **Admin Dashboard** – Manage alumni records, view donations, and update announcements.
 
 ---
