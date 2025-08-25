@@ -1,7 +1,7 @@
 # 🎓 Alumni Connect Portal
 
 An innovative **Alumni Management & Engagement System** built to strengthen the bond between alumni and their alma mater. Developed during a competition at **Pillai College of Engineering**, the project aimed to create a centralized platform where alumni can **connect, contribute, and collaborate** with their institution.
-![Landing Page](assets/landing.png)
+![Landing Page](assets/landing.jpg)
 <p align="center">
   <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
   <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
@@ -93,7 +93,7 @@ Alumni-Connect-Portal/
 
 | Advertisement                                   | Profile                             | Login                           | Donation                              |
 | ----------------------------------------------- | ----------------------------------- | ------------------------------- | ------------------------------------- |
-| ![Advertisement](assets/advertisement.png) | ![Profile](assets/profile.png) | ![Login](assets/login.png) | ![Donation](assets/donation.png) |
+| ![Advertisement](assets/advertisement.jpg) | ![Profile](assets/profile.jpg) | ![Login](assets/login.jpg) | ![Donation](assets/donation.jpg) |
 
 ## 🌱 Future Scope
 
