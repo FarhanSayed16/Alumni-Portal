@@ -93,9 +93,7 @@ Alumni-Connect-Portal/
 
 ## 📊 Screenshots / Demo
 
-| Advertisement                                   | Profile                             | Login                           | Donation                              |
-| ----------------------------------------------- | ----------------------------------- | ------------------------------- | ------------------------------------- |
-| ![Advertisement](assets/advertisement.jpg) | ![Profile](assets/profile.jpg) | ![Login](assets/login.jpg) | ![Donation](assets/donation.jpg) |
+ ![Advertisement](assets/advertisement.jpg) | ![Profile](assets/profile.jpg) | ![Login](assets/login.jpg) | ![Donation](assets/donation.jpg) |
 
 ## 🌱 Future Scope
 
