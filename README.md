@@ -5,11 +5,14 @@ An innovative **Alumni Management & Engagement System** built to strengthen the 
 ![Landing Page](assets/landing.jpg)
 
 <p align="center">
-  <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
-  <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?logo=mongodb&logoColor=white" />
+  <a href="https://github.com/FarhanSayed16/Alumni-Connect-Portal/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/Alumni-Connect-Portal?style=social" /></a>
+  <a href="https://github.com/FarhanSayed16/Alumni-Connect-Portal/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/Alumni-Connect-Portal?style=social" /></a>
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue" />
+  <img src="https://img.shields.io/badge/Backend-PHP-orange" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blueviolet" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
+
 
 ---
 
@@ -93,7 +96,10 @@ Alumni-Connect-Portal/
 
 ## 📊 Screenshots / Demo
 
- ![Advertisement](assets/advertisement.jpg) | ![Profile](assets/profile.jpg) | ![Login](assets/login.jpg) | ![Donation](assets/donation.jpg) |
+ ## Advertisement [Advertisement](assets/advertisement.jpg) 
+ ## Profile [Profile](assets/profile.jpg) 
+ ## Login ![Login](assets/login.jpg) 
+ ## Donation ![Donation](assets/donation.jpg) 
 
 ## 🌱 Future Scope
 
