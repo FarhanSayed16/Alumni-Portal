@@ -96,10 +96,14 @@ Alumni-Connect-Portal/
 
 ## 📊 Screenshots / Demo
 
- ## Advertisement [Advertisement](assets/advertisement.jpg) 
- ## Profile [Profile](assets/profile.jpg) 
- ## Login ![Login](assets/login.jpg) 
- ## Donation ![Donation](assets/donation.jpg) 
+ ## Advertisement 
+![Advertisement](assets/advertisement.jpg) 
+ ## Profile 
+![Profile](assets/profile.jpg) 
+ ## Login 
+![Login](assets/login.jpg) 
+ ## Donation 
+![Donation](assets/donation.jpg) 
 
 ## 🌱 Future Scope
 
